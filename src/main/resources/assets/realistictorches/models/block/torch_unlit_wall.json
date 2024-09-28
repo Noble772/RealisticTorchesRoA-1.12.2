@@ -1,0 +1,6 @@
+{
+    "parent": "block/torch_wall",
+    "textures": {
+        "torch": "realistictorches:blocks/torch_unlit"
+    }
+}
